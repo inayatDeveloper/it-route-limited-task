@@ -4,18 +4,18 @@
     "main.js.map": "/it-route-limited-task/static/js/main.f2754d89.chunk.js.map",
     "runtime-main.js": "/it-route-limited-task/static/js/runtime-main.b4776237.js",
     "runtime-main.js.map": "/it-route-limited-task/static/js/runtime-main.b4776237.js.map",
-    "static/css/2.de424728.chunk.css": "/it-route-limited-task/static/css/2.de424728.chunk.css",
+    "static/css/2.5711c12b.chunk.css": "/it-route-limited-task/static/css/2.5711c12b.chunk.css",
     "static/js/2.b2b19a7c.chunk.js": "/it-route-limited-task/static/js/2.b2b19a7c.chunk.js",
     "static/js/2.b2b19a7c.chunk.js.map": "/it-route-limited-task/static/js/2.b2b19a7c.chunk.js.map",
     "index.html": "/it-route-limited-task/index.html",
-    "precache-manifest.0982cc88189b371c0abe037b6e1e846c.js": "/it-route-limited-task/precache-manifest.0982cc88189b371c0abe037b6e1e846c.js",
+    "precache-manifest.6cc49c31b297cc7e384b6fe14ebdf07c.js": "/it-route-limited-task/precache-manifest.6cc49c31b297cc7e384b6fe14ebdf07c.js",
     "service-worker.js": "/it-route-limited-task/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/it-route-limited-task/static/css/2.de424728.chunk.css.map",
+    "static/css/2.5711c12b.chunk.css.map": "/it-route-limited-task/static/css/2.5711c12b.chunk.css.map",
     "static/js/2.b2b19a7c.chunk.js.LICENSE.txt": "/it-route-limited-task/static/js/2.b2b19a7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b4776237.js",
-    "static/css/2.de424728.chunk.css",
+    "static/css/2.5711c12b.chunk.css",
     "static/js/2.b2b19a7c.chunk.js",
     "static/js/main.f2754d89.chunk.js"
   ]
